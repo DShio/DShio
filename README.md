@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DShio 
+- 👀 I’m interested in AI and videogames development
+- 🌱 I’m currently learning c++ cause I want to make videogames :)
+- 💞️ I like cats and desserts
+- 📫 You can reach with me through my instagram @kihalen
